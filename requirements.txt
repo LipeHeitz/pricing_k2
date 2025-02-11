@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy<2
+numpy
 datetime
 streamlit-option-menu
 python-bcb
