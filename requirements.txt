@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy<2
+MetaTrader5
+datetime
+streamlit-option-menu
+python-bcb
+numpy_financial
+scipy
